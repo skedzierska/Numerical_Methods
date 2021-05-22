@@ -1,1 +1,1 @@
-# numerical_methods
+Repository contains basic algorithms of numerical methods.
